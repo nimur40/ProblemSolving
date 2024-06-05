@@ -1,0 +1,14 @@
+E:\Git\ProblemSolving\Problem\LP9\obj\Debug\net8.0\LP9.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\ProblemSolving\Problem\LP9\obj\Debug\net8.0\LP9.AssemblyInfoInputs.cache
+E:\Git\ProblemSolving\Problem\LP9\obj\Debug\net8.0\LP9.AssemblyInfo.cs
+E:\Git\ProblemSolving\Problem\LP9\obj\Debug\net8.0\LP9.csproj.CoreCompileInputs.cache
+E:\Git\ProblemSolving\Problem\LP9\bin\Debug\net8.0\LP9.exe
+E:\Git\ProblemSolving\Problem\LP9\bin\Debug\net8.0\LP9.deps.json
+E:\Git\ProblemSolving\Problem\LP9\bin\Debug\net8.0\LP9.runtimeconfig.json
+E:\Git\ProblemSolving\Problem\LP9\bin\Debug\net8.0\LP9.dll
+E:\Git\ProblemSolving\Problem\LP9\bin\Debug\net8.0\LP9.pdb
+E:\Git\ProblemSolving\Problem\LP9\obj\Debug\net8.0\LP9.dll
+E:\Git\ProblemSolving\Problem\LP9\obj\Debug\net8.0\refint\LP9.dll
+E:\Git\ProblemSolving\Problem\LP9\obj\Debug\net8.0\LP9.pdb
+E:\Git\ProblemSolving\Problem\LP9\obj\Debug\net8.0\LP9.genruntimeconfig.cache
+E:\Git\ProblemSolving\Problem\LP9\obj\Debug\net8.0\ref\LP9.dll

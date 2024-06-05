@@ -1,0 +1,14 @@
+E:\Git\ProblemSolving\Problem\Loop\bin\Debug\net8.0\Loop.exe
+E:\Git\ProblemSolving\Problem\Loop\bin\Debug\net8.0\Loop.deps.json
+E:\Git\ProblemSolving\Problem\Loop\bin\Debug\net8.0\Loop.runtimeconfig.json
+E:\Git\ProblemSolving\Problem\Loop\bin\Debug\net8.0\Loop.dll
+E:\Git\ProblemSolving\Problem\Loop\bin\Debug\net8.0\Loop.pdb
+E:\Git\ProblemSolving\Problem\Loop\obj\Debug\net8.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\ProblemSolving\Problem\Loop\obj\Debug\net8.0\Loop.AssemblyInfoInputs.cache
+E:\Git\ProblemSolving\Problem\Loop\obj\Debug\net8.0\Loop.AssemblyInfo.cs
+E:\Git\ProblemSolving\Problem\Loop\obj\Debug\net8.0\Loop.csproj.CoreCompileInputs.cache
+E:\Git\ProblemSolving\Problem\Loop\obj\Debug\net8.0\Loop.dll
+E:\Git\ProblemSolving\Problem\Loop\obj\Debug\net8.0\refint\Loop.dll
+E:\Git\ProblemSolving\Problem\Loop\obj\Debug\net8.0\Loop.pdb
+E:\Git\ProblemSolving\Problem\Loop\obj\Debug\net8.0\Loop.genruntimeconfig.cache
+E:\Git\ProblemSolving\Problem\Loop\obj\Debug\net8.0\ref\Loop.dll

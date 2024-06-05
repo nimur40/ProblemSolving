@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Git\\ProblemSolving\\Problem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CED2890E-BD64-4C7F-88CC-0952B2D97540}|LP9\\LP9.csproj|e:\\git\\problemsolving\\problem\\lp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED2890E-BD64-4C7F-88CC-0952B2D97540}|LP9\\LP9.csproj|solutionrelative:lp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA054A2F-3105-4956-BF11-3239BCAF3477}|LP10\\LP10.csproj|e:\\git\\problemsolving\\problem\\lp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA054A2F-3105-4956-BF11-3239BCAF3477}|LP10\\LP10.csproj|solutionrelative:lp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6076C569-1FB9-40E8-907E-AAD3767BB592}|LP11\\LP11.csproj|e:\\git\\problemsolving\\problem\\lp11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6076C569-1FB9-40E8-907E-AAD3767BB592}|LP11\\LP11.csproj|solutionrelative:lp11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Git\\ProblemSolving\\Problem\\LP9\\Program.cs",
+              "RelativeDocumentMoniker": "LP9\\Program.cs",
+              "ToolTip": "E:\\Git\\ProblemSolving\\Problem\\LP9\\Program.cs",
+              "RelativeToolTip": "LP9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:26:35.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Git\\ProblemSolving\\Problem\\LP10\\Program.cs",
+              "RelativeDocumentMoniker": "LP10\\Program.cs",
+              "ToolTip": "E:\\Git\\ProblemSolving\\Problem\\LP10\\Program.cs",
+              "RelativeToolTip": "LP10\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:26:21.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Git\\ProblemSolving\\Problem\\LP11\\Program.cs",
+              "RelativeDocumentMoniker": "LP11\\Program.cs",
+              "ToolTip": "E:\\Git\\ProblemSolving\\Problem\\LP11\\Program.cs",
+              "RelativeToolTip": "LP11\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:17:40.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+E:\Git\ProblemSolving\Problem\Loop8\bin\Debug\net8.0\Loop8.exe
+E:\Git\ProblemSolving\Problem\Loop8\bin\Debug\net8.0\Loop8.deps.json
+E:\Git\ProblemSolving\Problem\Loop8\bin\Debug\net8.0\Loop8.runtimeconfig.json
+E:\Git\ProblemSolving\Problem\Loop8\bin\Debug\net8.0\Loop8.dll
+E:\Git\ProblemSolving\Problem\Loop8\bin\Debug\net8.0\Loop8.pdb
+E:\Git\ProblemSolving\Problem\Loop8\obj\Debug\net8.0\Loop8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\ProblemSolving\Problem\Loop8\obj\Debug\net8.0\Loop8.AssemblyInfoInputs.cache
+E:\Git\ProblemSolving\Problem\Loop8\obj\Debug\net8.0\Loop8.AssemblyInfo.cs
+E:\Git\ProblemSolving\Problem\Loop8\obj\Debug\net8.0\Loop8.csproj.CoreCompileInputs.cache
+E:\Git\ProblemSolving\Problem\Loop8\obj\Debug\net8.0\Loop8.dll
+E:\Git\ProblemSolving\Problem\Loop8\obj\Debug\net8.0\refint\Loop8.dll
+E:\Git\ProblemSolving\Problem\Loop8\obj\Debug\net8.0\Loop8.pdb
+E:\Git\ProblemSolving\Problem\Loop8\obj\Debug\net8.0\Loop8.genruntimeconfig.cache
+E:\Git\ProblemSolving\Problem\Loop8\obj\Debug\net8.0\ref\Loop8.dll

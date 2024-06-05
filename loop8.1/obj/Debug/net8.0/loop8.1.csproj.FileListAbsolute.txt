@@ -1,0 +1,14 @@
+E:\Git\ProblemSolving\Problem\loop8.1\bin\Debug\net8.0\loop8.1.exe
+E:\Git\ProblemSolving\Problem\loop8.1\bin\Debug\net8.0\loop8.1.deps.json
+E:\Git\ProblemSolving\Problem\loop8.1\bin\Debug\net8.0\loop8.1.runtimeconfig.json
+E:\Git\ProblemSolving\Problem\loop8.1\bin\Debug\net8.0\loop8.1.dll
+E:\Git\ProblemSolving\Problem\loop8.1\bin\Debug\net8.0\loop8.1.pdb
+E:\Git\ProblemSolving\Problem\loop8.1\obj\Debug\net8.0\loop8.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\ProblemSolving\Problem\loop8.1\obj\Debug\net8.0\loop8.1.AssemblyInfoInputs.cache
+E:\Git\ProblemSolving\Problem\loop8.1\obj\Debug\net8.0\loop8.1.AssemblyInfo.cs
+E:\Git\ProblemSolving\Problem\loop8.1\obj\Debug\net8.0\loop8.1.csproj.CoreCompileInputs.cache
+E:\Git\ProblemSolving\Problem\loop8.1\obj\Debug\net8.0\loop8.1.dll
+E:\Git\ProblemSolving\Problem\loop8.1\obj\Debug\net8.0\refint\loop8.1.dll
+E:\Git\ProblemSolving\Problem\loop8.1\obj\Debug\net8.0\loop8.1.pdb
+E:\Git\ProblemSolving\Problem\loop8.1\obj\Debug\net8.0\loop8.1.genruntimeconfig.cache
+E:\Git\ProblemSolving\Problem\loop8.1\obj\Debug\net8.0\ref\loop8.1.dll

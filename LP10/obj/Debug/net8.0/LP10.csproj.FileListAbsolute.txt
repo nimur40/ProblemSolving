@@ -1,0 +1,14 @@
+E:\Git\ProblemSolving\Problem\LP10\bin\Debug\net8.0\LP10.exe
+E:\Git\ProblemSolving\Problem\LP10\bin\Debug\net8.0\LP10.deps.json
+E:\Git\ProblemSolving\Problem\LP10\bin\Debug\net8.0\LP10.runtimeconfig.json
+E:\Git\ProblemSolving\Problem\LP10\bin\Debug\net8.0\LP10.dll
+E:\Git\ProblemSolving\Problem\LP10\bin\Debug\net8.0\LP10.pdb
+E:\Git\ProblemSolving\Problem\LP10\obj\Debug\net8.0\LP10.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\ProblemSolving\Problem\LP10\obj\Debug\net8.0\LP10.AssemblyInfoInputs.cache
+E:\Git\ProblemSolving\Problem\LP10\obj\Debug\net8.0\LP10.AssemblyInfo.cs
+E:\Git\ProblemSolving\Problem\LP10\obj\Debug\net8.0\LP10.csproj.CoreCompileInputs.cache
+E:\Git\ProblemSolving\Problem\LP10\obj\Debug\net8.0\LP10.dll
+E:\Git\ProblemSolving\Problem\LP10\obj\Debug\net8.0\refint\LP10.dll
+E:\Git\ProblemSolving\Problem\LP10\obj\Debug\net8.0\LP10.pdb
+E:\Git\ProblemSolving\Problem\LP10\obj\Debug\net8.0\LP10.genruntimeconfig.cache
+E:\Git\ProblemSolving\Problem\LP10\obj\Debug\net8.0\ref\LP10.dll
